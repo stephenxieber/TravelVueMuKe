@@ -41,4 +41,4 @@ export default {
     background: #eee
     .swiper-img
       width: 100%
-</style>
+</style> 
